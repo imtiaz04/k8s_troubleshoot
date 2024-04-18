@@ -11,27 +11,9 @@ can check pods using 'Kubectl get pods' command and check status of minikube
 
 create one nginx.yml file 
 
-apiVersion: apps/v1
-kind: Deployment
-metadata:
-  name: nginx-deployment
-  labels:
-    app: nginx
-spec:
-  replicas: 3
-  selector:
-    matchLabels:
-      app: nginx
-  template:
-    metadata:
-      labels:
-        app: nginx
-    spec:
-      containers:
-      - name: nginx
-        image: nginx:1.14.2
-        ports:
-        - containerPort: 80
+![image](https://github.com/imtiaz04/k8s_troubleshoot/assets/85178565/1705868e-84d3-48bd-b051-17523ccc67b3)
+
+
 
 ![image](https://github.com/imtiaz04/k8s_troubleshoot/assets/85178565/132cb74d-3e03-4bae-9e64-b1b7d8313868)
 
