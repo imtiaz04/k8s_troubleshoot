@@ -28,6 +28,19 @@ so in 2 senarios this 'ERRIMGPULL' & 'imagepullBackoff' error will come one is w
 
 ![image](https://github.com/imtiaz04/k8s_troubleshoot/assets/85178565/97d5d94f-66f3-4fd8-bba6-c52a566db34d)
 
+To Trubleshoot this error need to create secrets with docker credentials
+
+![image](https://github.com/imtiaz04/k8s_troubleshoot/assets/85178565/629d646c-998c-4c4e-bc90-c2efb7b1b7af)
+
+
+
+![image](https://github.com/imtiaz04/k8s_troubleshoot/assets/85178565/fda638e3-4572-444e-bb3c-481bf3b0e293)
+
+
+![image](https://github.com/imtiaz04/k8s_troubleshoot/assets/85178565/79c4d87d-5702-4094-b1ce-14845ba3934c)
+
+
+![image](https://github.com/imtiaz04/k8s_troubleshoot/assets/85178565/19a12f4d-ec10-4757-8410-8399d94702e7)
 
 
 
