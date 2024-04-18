@@ -21,6 +21,18 @@ for creating error will modify yml file in containers image name as ngny:1.14.2 
 
 ![image](https://github.com/imtiaz04/k8s_troubleshoot/assets/85178565/332a0f07-2c3b-42ec-8f86-8c330b1a9fcb)
 
+so in 2 senarios this 'ERRIMGPULL' & 'imagepullBackoff' error will come one is when you provide unknown image/ invalid image name second is when you try to pull image from private repository.
+
+![image](https://github.com/imtiaz04/k8s_troubleshoot/assets/85178565/b541a9bd-a686-4979-a981-11cdbe03f8e3)
+
+
+![image](https://github.com/imtiaz04/k8s_troubleshoot/assets/85178565/97d5d94f-66f3-4fd8-bba6-c52a566db34d)
+
+
+
+
+
+
 
 
 
