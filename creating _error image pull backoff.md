@@ -35,4 +35,11 @@ spec:
 
 ![image](https://github.com/imtiaz04/k8s_troubleshoot/assets/85178565/132cb74d-3e03-4bae-9e64-b1b7d8313868)
 
+for creating error will modify yml file in containers image name as ngny:1.14.2 then error will appear like @ beginning 'ERRIMAGEPULL' ERROR will appear later it will be 'imagepullBackoff' Error will appear 
+
+![image](https://github.com/imtiaz04/k8s_troubleshoot/assets/85178565/332a0f07-2c3b-42ec-8f86-8c330b1a9fcb)
+
+
+
+
 
